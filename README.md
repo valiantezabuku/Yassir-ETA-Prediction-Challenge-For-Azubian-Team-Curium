@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Notebook preview](#preview)
+- [Notebook preview](#notebook-preview)
 - [Overview](#overview)
 - [Key Objectives](#key-objectives)
 - [Methodology](#methodology)
